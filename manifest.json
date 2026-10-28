@@ -1,1 +1,26 @@
-
+{
+"id": "/secure-trace-system/",
+"name": "Secure Trace - Identity and CCTV Investigation System",
+"short_name": "Secure Trace",
+"description": "Secure Trace is an identity, records, and CCTV investigation management system.",
+"start_url": "/secure-trace-system/",
+"scope": "/secure-trace-system/",
+"display": "standalone",
+"orientation": "portrait",
+"background_color": "#101827",
+"theme_color": "#172554",
+"icons": [
+{
+"src": "./icon-192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "./icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+}
+]
+}
